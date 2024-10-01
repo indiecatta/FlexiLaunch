@@ -13,15 +13,19 @@ This project is currently just an example. There are many features still to be a
 ## Screenshots
 
 ![Instance Example](screenshots/instance_empty.png)
+
 _Empty Instance_
 
 ![Instance Example](screenshots/instance_example.png)
+
 _Light Theme_
 
 ![Dark Theme](screenshots/dark_theme.png)
+
 _Dark Theme_
 
 ![Dark Theme](screenshots/search.png)
+
 _Search_
 
 ## Features

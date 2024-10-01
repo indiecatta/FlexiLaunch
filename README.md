@@ -5,6 +5,11 @@
 **Disclaimer**
 Any third-party application references shown in the screenshots are for demonstration purposes only and do not imply endorsement or affiliation.
 
+## Development Status
+
+This project is currently just an example. There are many features still to be added.
+
+
 ## Screenshots
 
 ![Instance Example](screenshots/instance_empty.png)
@@ -33,7 +38,7 @@ _Search_
    ```bash
    pip install -r requirements.txt
    ```
-   
+
 ## Usage
 1. Run the application:
    ```bash
